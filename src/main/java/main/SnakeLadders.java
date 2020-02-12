@@ -49,6 +49,7 @@ public class SnakeLadders{
 		int place = 0;
 		place = place + dice;
 		System.out.println(dice);
+                System.out.println("Sai");
 	
 		while(true) {
 			int play = place;
